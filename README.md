@@ -22,6 +22,7 @@ Python, Pandas, Matplotlib, Seaborn
 ## Files:
 
 These datasets are provided by codebasics.io
+https://github.com/mdntarif/Python-Hospitality-Domain-Analysis/blob/main/datasets.zip
 
 ## Problems we have to solve:
 Data Import and Data Exploration
