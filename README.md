@@ -7,6 +7,9 @@ Data Analysis in Hospitality Domain
 
 The project aims to analyze data in the hospitality domain to understand customer behavior, improve service quality, and increase overall customer satisfaction.
 
+![ erbrbtrhbrgbfbtyh](https://github.com/user-attachments/assets/07498e5f-25e6-48ba-b00c-afccc98bf87e)
+
+
 **Steps Involved**:
 
 1. **Understanding the Business Problem**: The project starts by identifying key business challenges in the hospitality sector, such as low customer satisfaction, high churn rates, or identifying the most profitable customer segments. The goal is to use data-driven insights to address these issues.
